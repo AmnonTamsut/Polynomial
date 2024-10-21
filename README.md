@@ -119,10 +119,3 @@ int main() {
 }
 ```
 
-## Contributing
-
-Contributions are welcome! If you find a bug or have a feature request, feel free to open an issue. If you'd like to contribute code, please fork the repository, create a new branch, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
